@@ -1,0 +1,5 @@
+@use '../../style' as s;
+
+.back_button {
+  @include s.click;
+}
